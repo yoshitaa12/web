@@ -1,0 +1,44 @@
+body { font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: black;
+    padding: 20px;
+    line-height: 1.6;}
+  h1 {
+    color: rgb(50, 224, 76) ;
+  }
+  h2{
+    color: blue;
+  }
+  p{
+    color:rgb(225, 38, 97);
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+  }
+  
+  a {
+    color: rgb(42, 227, 9) ;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  button {
+    background-color: pink;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 9px;
+    cursor: pointer;
+    margin-top: 20px;
+  }
+  
+  button:hover {
+    background-color: orange ;
+  }
+  
