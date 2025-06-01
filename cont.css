@@ -1,0 +1,25 @@
+/* General page styling */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #d2c210;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+/* Headings and emphasis */
+h1 {
+    color: #16f1f5;
+    font-size: 32px;
+}
+
+b {
+    color: #1f08c9;
+}
+
+i {
+    font-style: italic;
+    color: #055f48;
+}

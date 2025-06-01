@@ -1,0 +1,17 @@
+/* General page styling */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #1bac9b;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+i {
+    font-style: italic;
+    color: #055f48;
+}
+li{
+    font-style:italic;
+    color:rgb(255, 0, 102);
+}
